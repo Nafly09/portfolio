@@ -33,8 +33,8 @@ const Hero = () => (
           />
         </SectionTitle>
         <SectionText>
-          Sou um desenvolvedor com habilidades em frontend e backend tentando
-          fazer algo que mude o mundo.
+          Sou um desenvolvedor com habilidades em frontend e backend buscando um
+          oportunidade para fazer a diferença.
         </SectionText>
       </LeftSection>
     </Section>

@@ -29,6 +29,16 @@ export const projects = [
     source: "https://nafly09.github.io/Lig4/",
     id: 2,
   },
+  {
+    title: "Pc-Builder API",
+    description:
+      "API construída com postgreSQL, Python e SQLAlchemy para o Backend da aplicação PC-Builder, um e-commerce de peças para computadores, desenvolvido e idealizado por uma equipe de 6 programadores. Utilizando boas práticas, clean code e princípios de escalabilidade.",
+    image: "/images/4.png",
+    tags: ["Python", "PostgreSQL", "SQLAlchemy"],
+    visit: "https://pc-builder-api-v2.herokuapp.com/",
+    source: "https://github.com/Nafly09/pc-builder-api",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
