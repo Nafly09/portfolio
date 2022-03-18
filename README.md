@@ -7,7 +7,3 @@
 Esse é o repositório do meu portfólio, com técnicas e inspirações de vários outros projetos que observei
 
 Tanto na internet quanto em sites como Awwwards.com
-
-Setup:
-
-- run `npm i && npm start`
