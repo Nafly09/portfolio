@@ -31,7 +31,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiência com <br />
-            React.js, Javascript, Redux, CSS <br />
+            React.js, Javascript, Typescript, Redux, Context, CSS <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,7 +43,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experiência com <br />
-            Flask, Python
+            Flask, Python, Node, PostgreSQL, MongoDB, SQLAlchemy, Django
           </ListParagraph>
         </ListContainer>
       </ListItem>

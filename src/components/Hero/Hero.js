@@ -17,7 +17,16 @@ const Hero = () => (
           Desenvolvedor
           <Typewriter
             options={{
-              strings: ["React", "Python", "Javascript"],
+              strings: [
+                "React",
+                "Python",
+                "Javascript",
+                "Flask",
+                "Node",
+                "Frontend",
+                "Backend",
+                "Fullstack",
+              ],
               autoStart: true,
               loop: true,
             }}
